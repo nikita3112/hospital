@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hospital/static/css/main.80889ef8.css",
-    "main.js": "/hospital/static/js/main.9962f8a4.js",
+    "main.css": "/hospital/static/css/main.b1ad9346.css",
+    "main.js": "/hospital/static/js/main.8eda8e74.js",
     "static/media/bg-mic.jpeg": "/hospital/static/media/bg-mic.5b593cc993b54e17d7c3.jpeg",
+    "static/media/main-bg.jpg": "/hospital/static/media/main-bg.4b816227eb3413561acb.jpg",
     "static/media/oborudovanie.jpeg": "/hospital/static/media/oborudovanie.03816573d70ebdd136c8.jpeg",
-    "static/media/скорая.jpeg": "/hospital/static/media/скорая.6e3c37bb541ec2e77b87.jpeg",
     "static/media/bg-money.jpeg": "/hospital/static/media/bg-money.9c04bc72dde69d2c07d5.jpeg",
     "static/media/call-photo.webp": "/hospital/static/media/call-photo.6f2e627e4f938431864e.webp",
     "static/media/building.svg": "/hospital/static/media/building.534aafca19ffd241635e2aee905adff5.svg",
@@ -26,11 +26,11 @@
     "static/media/people.svg": "/hospital/static/media/people.d7cad8c22698ea3f889e990a5bf6cead.svg",
     "static/media/arrow.svg": "/hospital/static/media/arrow.6c3b731c80d7a464355684a6d0260cf5.svg",
     "static/media/x-black.svg": "/hospital/static/media/x-black.32b71bbe8fdbb3ee0bc32ed3aac8c7e7.svg",
-    "main.80889ef8.css.map": "/hospital/static/css/main.80889ef8.css.map",
-    "main.9962f8a4.js.map": "/hospital/static/js/main.9962f8a4.js.map"
+    "main.b1ad9346.css.map": "/hospital/static/css/main.b1ad9346.css.map",
+    "main.8eda8e74.js.map": "/hospital/static/js/main.8eda8e74.js.map"
   },
   "entrypoints": [
-    "static/css/main.80889ef8.css",
-    "static/js/main.9962f8a4.js"
+    "static/css/main.b1ad9346.css",
+    "static/js/main.8eda8e74.js"
   ]
 }
