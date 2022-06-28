@@ -1,14 +1,12 @@
 {
   "files": {
     "main.css": "/hospital/static/css/main.4a34b7a0.css",
-    "main.js": "/hospital/static/js/main.1a076ce7.js",
+    "main.js": "/hospital/static/js/main.b873c53f.js",
     "static/media/bg-mic.jpeg": "/hospital/static/media/bg-mic.5b593cc993b54e17d7c3.jpeg",
     "static/media/main-bg.jpg": "/hospital/static/media/main-bg.4b816227eb3413561acb.jpg",
     "static/media/oborudovanie.jpeg": "/hospital/static/media/oborudovanie.03816573d70ebdd136c8.jpeg",
     "static/media/bg-money.jpeg": "/hospital/static/media/bg-money.9c04bc72dde69d2c07d5.jpeg",
     "static/media/call-photo.webp": "/hospital/static/media/call-photo.6f2e627e4f938431864e.webp",
-    "static/media/building.svg": "/hospital/static/media/building.534aafca19ffd241635e2aee905adff5.svg",
-    "static/media/24.svg": "/hospital/static/media/24.1e80def392b5297f521b18d1fcae73c9.svg",
     "static/media/microscope.svg": "/hospital/static/media/microscope.2ed79371c19088354e6e51526db45705.svg",
     "static/media/microscopeW.svg": "/hospital/static/media/microscopeW.73d6b1be0c51686543ce61772c9e28b6.svg",
     "static/media/ok.svg": "/hospital/static/media/ok.712e00876367fe744c19379802a6945a.svg",
@@ -23,14 +21,13 @@
     "static/media/menu.svg": "/hospital/static/media/menu.2a7fc5467ee6018f65da6b83463c414c.svg",
     "static/media/vk.svg": "/hospital/static/media/vk.cdc9a1cd6b3cbee1f1883b58db173729.svg",
     "static/media/fb.svg": "/hospital/static/media/fb.7c00415bc00e7b314a122fb7743ae505.svg",
-    "static/media/people.svg": "/hospital/static/media/people.d7cad8c22698ea3f889e990a5bf6cead.svg",
     "static/media/arrow.svg": "/hospital/static/media/arrow.6c3b731c80d7a464355684a6d0260cf5.svg",
     "static/media/x-black.svg": "/hospital/static/media/x-black.32b71bbe8fdbb3ee0bc32ed3aac8c7e7.svg",
     "main.4a34b7a0.css.map": "/hospital/static/css/main.4a34b7a0.css.map",
-    "main.1a076ce7.js.map": "/hospital/static/js/main.1a076ce7.js.map"
+    "main.b873c53f.js.map": "/hospital/static/js/main.b873c53f.js.map"
   },
   "entrypoints": [
     "static/css/main.4a34b7a0.css",
-    "static/js/main.1a076ce7.js"
+    "static/js/main.b873c53f.js"
   ]
 }
