@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hospital/static/css/main.de85b461.css",
-    "main.js": "/hospital/static/js/main.b873c53f.js",
+    "main.js": "/hospital/static/js/main.d3927061.js",
     "static/media/bg-mic.jpeg": "/hospital/static/media/bg-mic.5b593cc993b54e17d7c3.jpeg",
     "static/media/main-bg.jpg": "/hospital/static/media/main-bg.4b816227eb3413561acb.jpg",
     "static/media/oborudovanie.jpeg": "/hospital/static/media/oborudovanie.03816573d70ebdd136c8.jpeg",
@@ -10,8 +10,6 @@
     "static/media/microscope.svg": "/hospital/static/media/microscope.2ed79371c19088354e6e51526db45705.svg",
     "static/media/microscopeW.svg": "/hospital/static/media/microscopeW.73d6b1be0c51686543ce61772c9e28b6.svg",
     "static/media/ok.svg": "/hospital/static/media/ok.712e00876367fe744c19379802a6945a.svg",
-    "static/media/money.svg": "/hospital/static/media/money.03c37d212b5e835ff1961f7a620902c8.svg",
-    "static/media/moneyW.svg": "/hospital/static/media/moneyW.c4e1f363ec730ce1828a9dff1e447fc3.svg",
     "static/media/gps.svg": "/hospital/static/media/gps.4a78392f95a4c01f8d02.svg",
     "static/media/inst.svg": "/hospital/static/media/inst.d3c2798230aa168c6cc4fa420b131ea1.svg",
     "static/media/computer.svg": "/hospital/static/media/computer.084cb3c6a1b11219db2b841130749014.svg",
@@ -21,13 +19,15 @@
     "static/media/menu.svg": "/hospital/static/media/menu.2a7fc5467ee6018f65da6b83463c414c.svg",
     "static/media/vk.svg": "/hospital/static/media/vk.cdc9a1cd6b3cbee1f1883b58db173729.svg",
     "static/media/fb.svg": "/hospital/static/media/fb.7c00415bc00e7b314a122fb7743ae505.svg",
+    "static/media/money.svg": "/hospital/static/media/money.8177300ed2dd6d4d792a01d2ec1d6080.svg",
+    "static/media/moneyW.svg": "/hospital/static/media/moneyW.31a9df60926fb804aade3ea12313ec17.svg",
     "static/media/arrow.svg": "/hospital/static/media/arrow.6c3b731c80d7a464355684a6d0260cf5.svg",
     "static/media/x-black.svg": "/hospital/static/media/x-black.32b71bbe8fdbb3ee0bc32ed3aac8c7e7.svg",
     "main.de85b461.css.map": "/hospital/static/css/main.de85b461.css.map",
-    "main.b873c53f.js.map": "/hospital/static/js/main.b873c53f.js.map"
+    "main.d3927061.js.map": "/hospital/static/js/main.d3927061.js.map"
   },
   "entrypoints": [
     "static/css/main.de85b461.css",
-    "static/js/main.b873c53f.js"
+    "static/js/main.d3927061.js"
   ]
 }
